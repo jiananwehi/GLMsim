@@ -1,0 +1,14 @@
+Package: GLMsim
+Type: Package
+Title: A GLM-based single cell RNA-seq simulator incorporating batch and biological effects
+Version: 0.1.0
+Author: person("Jianan", "Wang", email = "wang.j@wehi.edu.au", role = c("aut", "cre"))
+Maintainer: Jianan Wang <wang.j@wehi.edu.au>
+Description: This package aims to capture library size, biological variation, unwanted variation, and their associations via a generalized linear model, and simulate data resembling the original experimental data.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Imports:
+    MASS,
+    parallel
+RoxygenNote: 7.2.3
