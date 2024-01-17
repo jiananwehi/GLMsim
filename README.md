@@ -4,6 +4,6 @@ GLMsim is a single cell simulator that can simultaneously capture the library si
 `devtools::install_github("jiananwehi/GLMsim")`
 ## Preliminary setup
 The following packages are prerequisites to run GLMsim. <br />
-`library(GLMsim)`
-`library(MASS)` 
-`library(parallel)`
+`library(GLMsim)` <br />
+`library(MASS)` <br />
+`library(parallel)` <br />
