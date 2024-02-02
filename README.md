@@ -9,3 +9,5 @@ library(GLMsim)
 library(MASS)
 library(parallel)
 ```
+## Vignette
+[https://bookdown.org/yeswangjianan/GLMsim/](https://bookdown.org/yeswangjianan/GLMsim/)
